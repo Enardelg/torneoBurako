@@ -1,0 +1,15 @@
+<svg width="240" height="70" viewBox="0 0 240 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="12" width="220" height="46" rx="20" fill="#0B1C14" fill-opacity="0.72" stroke="#E2B85C" stroke-opacity="0.55"/>
+  <path d="M48 24C48 21.7909 49.7909 20 52 20H70C72.2091 20 74 21.7909 74 24V30C74 32.2091 72.2091 34 70 34H52C49.7909 34 48 32.2091 48 30V24Z" fill="#5C2D18"/>
+  <path d="M52 20C49.7909 20 48 21.7909 48 24V30C48 32.2091 49.7909 34 52 34H57C54.7909 34 53 32.2091 53 30V24C53 21.7909 54.7909 20 57 20H52Z" fill="#8E4B24"/>
+  <path d="M55 20H69C71.2091 20 73 21.7909 73 24V30C73 32.2091 71.2091 34 69 34H55V20Z" fill="#C98538"/>
+  <path d="M53 36H71C73.2091 36 75 37.7909 75 40V42C75 44.2091 73.2091 46 71 46H53C50.7909 46 49 44.2091 49 42V40C49 37.7909 50.7909 36 53 36Z" fill="#6F3A1C"/>
+  <path d="M52 36H54V46H52V36Z" fill="#B56B2F"/>
+  <path d="M44 28C44 22.4772 48.4772 18 54 18H55C60.5228 18 65 22.4772 65 28V32H44V28Z" fill="#D6A24D"/>
+  <path d="M61 19C61 16.7909 62.7909 15 65 15H70C72.2091 15 74 16.7909 74 19V21C74 23.2091 72.2091 25 70 25H65C62.7909 25 61 23.2091 61 21V19Z" fill="#FDBE59"/>
+  <path d="M76 22H90" stroke="#FBC96A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M94 22H124" stroke="#FFDA88" stroke-width="3" stroke-linecap="round"/>
+  <path d="M103 18H123" stroke="#F7C460" stroke-width="3" stroke-linecap="round"/>
+  <text x="132" y="31" fill="#F7E8C3" font-family="Cinzel, Georgia, serif" font-size="16" font-weight="700" letter-spacing="1.4">CODE</text>
+  <text x="132" y="49" fill="#DDA53D" font-family="Cinzel, Georgia, serif" font-size="16" font-weight="700" letter-spacing="1.3">COFFEE</text>
+</svg>
